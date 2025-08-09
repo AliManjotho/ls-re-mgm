@@ -1,6 +1,6 @@
-# ReActGen
+# LS-ReMGM
 
-This is the repository that contains source code for the [ReActGen website](https://incepters53.github.io/reactgen/).
+This is the repository that contains source code for the [LS-ReMGM website](https://alimanjotho.github.io/LS-ReMGM/).
 
 
 
